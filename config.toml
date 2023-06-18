@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'GinoBot'
+theme = "docuapi" 
+[module]
+[module.hugoVersion]
+[[module.imports]]
+# We need one module import for Hugo to detect us as a Hugo Module.
+path="github.com/bep/empty-hugo-module"
+

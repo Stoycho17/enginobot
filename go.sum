@@ -1,0 +1,16 @@
+github.com/bep/docuapi/v2 v2.2.0 h1:rd5R3XZMjp45lXpfjPM9+C0Prt2pJzgiHXvdA2U48Mw=
+github.com/bep/docuapi/v2 v2.2.0/go.mod h1:61SkJTCwqcIBqpMsUokAjyljnSiRHV74idrhPF2f+os=
+github.com/bep/empty-hugo-module v1.0.0 h1:aYc9RWea644CdYjg9zCy8nkVF4KjC3fwhUTvvcXXg8s=
+github.com/bep/empty-hugo-module v1.0.0/go.mod h1:whohinbSjMoFi/Skivj9kvdPs1tEgzYpZ4rXoQk/0/I=
+github.com/gohugoio/hugo-mod-jslibs-dist/alpinejs/v3 v3.21000.20200/go.mod h1:WWQxcmPs5Xy3xDgi29ipkmZT6NKVb3bsqyCDTY3eYYY=
+github.com/gohugoio/hugo-mod-jslibs-dist/alpinejs/v3 v3.21000.20300 h1:NqEL3Y2QX4UYmuC0qDLR5XMpIQGHE5O4kuhG2ieYqmA=
+github.com/gohugoio/hugo-mod-jslibs-dist/alpinejs/v3 v3.21000.20300/go.mod h1:WWQxcmPs5Xy3xDgi29ipkmZT6NKVb3bsqyCDTY3eYYY=
+github.com/jquery/jquery-dist v0.0.0-20190501211928-15bc73803f76 h1:j+Kzn/FdSZMPCfz6nZAJUU2+DBH0LPZU/Cmq3ZhBoRA=
+github.com/jquery/jquery-dist v0.0.0-20190501211928-15bc73803f76/go.mod h1:/lTfttEqFU0GWTaOOMIeNTzLGQ7yTIgyzjtkS/pYIoc=
+github.com/olivernn/lunr.js v2.3.8+incompatible/go.mod h1:yEkQ1DUSMtNsn8n2CqvQXZd0ErWPEG8g9QRmblR+KS8=
+github.com/olivernn/lunr.js v2.3.9+incompatible h1:eH8iBnjlR4mwlYDdNuqy9PCNLjp2bEs6aoNnTSaccx0=
+github.com/olivernn/lunr.js v2.3.9+incompatible/go.mod h1:yEkQ1DUSMtNsn8n2CqvQXZd0ErWPEG8g9QRmblR+KS8=
+github.com/slatedocs/slate v2.3.1+incompatible/go.mod h1:n698aXLkExWIlF7prJey0Kq6wlKIKvj/stVb5oouZDM=
+github.com/slatedocs/slate v2.9.2+incompatible/go.mod h1:n698aXLkExWIlF7prJey0Kq6wlKIKvj/stVb5oouZDM=
+github.com/slatedocs/slate v2.13.1+incompatible h1:jjt8PlqJB0YYukqCs1xrkXabmsj3DwMVrVkpmFJuoH8=
+github.com/slatedocs/slate v2.13.1+incompatible/go.mod h1:n698aXLkExWIlF7prJey0Kq6wlKIKvj/stVb5oouZDM=
